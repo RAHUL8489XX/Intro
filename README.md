@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJhYTdyM3FqYnZ2cmszY2tra3RkdDB4ZW9ib3Jxdm91NGp3bnFqayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/njH4f6IJ38WnB1L17F/giphy.gif" width="500px" />
+  <img src="https://github.com/RAHUL8489XX/Intro/blob/053ef834a7b939cf1c556b0ddc907c96bd71434e/cqnQgrgnS1CkLZHwQq.webp" width="500px" />
 </p>
 
 
@@ -42,15 +42,13 @@ I’m a multidisciplinary learner and creator working at the intersection of:
 ### 🤖 Meet Raphael — My Personal AI Assistant
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IeRdg7zScrsCMEzXc0/giphy.gif" width="400px" />
+  <img src="https://github.com/RAHUL8489XX/Intro/blob/c6bb03f0bba696438230b3c833adb6361e522c8c/Untitled%20design.gif" width="400px" />
 </p>
-
 
 
 <p align="center"> <img src="https://img.shields.io/badge/Built%20With-Python-blue?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/Speech%20Module-Enabled-success?style=for-the-badge"> <img src="https://img.shields.io/badge/GUI%20Interface-Custom-lightgrey?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge"> </p>
 
 ---
-
 
 ### 🛠️ Tech Stack
 ```**python
